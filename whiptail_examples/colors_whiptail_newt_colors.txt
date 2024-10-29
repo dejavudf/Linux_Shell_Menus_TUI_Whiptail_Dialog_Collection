@@ -1,4 +1,4 @@
-NEWT_COLORS
+NEWT_COLORS - colors thmes
 
 ## Set newt color palette for dialogs
 NEWT_COLORS='
@@ -71,3 +71,10 @@ NEWT_COLORS='
     helpline=white,black
     roottext=lightgrey,black
 '
+
+#export NEWT_COLORS='
+#window=,red
+#border=white,red
+#textbox=white,red
+#button=black,white
+#'
