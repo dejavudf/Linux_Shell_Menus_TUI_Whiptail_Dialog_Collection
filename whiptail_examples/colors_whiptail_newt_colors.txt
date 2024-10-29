@@ -48,8 +48,12 @@ color15 or white
 -> Samples:
 
 ## Set newt color palette for dialogs
-NEWT_COLORS='
-    root=,blue
+
+#change colours - theme: Flamengo
+export NEWT_COLORS='
+        root=,gray
+        entry=,gray
+        roottext=gray,black
 '
 NEWT_COLORS='
     root=,blue
