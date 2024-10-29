@@ -1,10 +1,10 @@
 NEWT_COLORS
 
 ## Set newt color palette for dialogs
-NEWT_COLORS_0='
+NEWT_COLORS='
     root=,blue
 '
-NEWT_COLORS_1='
+NEWT_COLORS='
     root=,blue
     checkbox=,blue
     entry=,blue
@@ -15,7 +15,23 @@ NEWT_COLORS_1='
     emptyscale=blue
     disabledentry=blue,
 '
-NEWT_COLORS_2='
+
+NEWT_COLORS='
+root=green,black
+border=green,black
+title=green,black
+roottext=white,black
+window=green,black
+textbox=white,black
+button=black,green
+compactbutton=white,black
+listbox=white,black
+actlistbox=black,white
+actsellistbox=black,green
+checkbox=green,black
+actcheckbox=black,green
+
+NEWT_COLORS='
     root=green,black
     border=green,black
     title=green,black
@@ -30,7 +46,7 @@ NEWT_COLORS_2='
     checkbox=green,black
     actcheckbox=black,green
 '
-NEWT_COLORS_3='
+NEWT_COLORS='
     root=white,black
     border=black,lightgray
     window=lightgray,lightgray
