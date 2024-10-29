@@ -1,4 +1,34 @@
-NEWT_COLORS - colors thmes
+NEWT_COLORS - colors themes
+
+-> Element List:
+
+root
+border
+window
+shadow
+title
+button
+actbutton
+checkbox
+actcheckbox
+entry
+label
+
+-> Colors List:
+
+black
+red
+green
+brown
+blue
+magenta
+cyan
+lightgray
+gray
+brightred
+brightgreen
+
+-> Samples:
 
 ## Set newt color palette for dialogs
 NEWT_COLORS='
